@@ -6,7 +6,7 @@
 
 * Also resets all default CSS behaviors using the following CSS rule and sets all CSS elements to use box-sizing: border-box. 
 ` 
-    &ast; {
+    \* {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
