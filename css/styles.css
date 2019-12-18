@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Creates a 'row' container that holds our content. Change width to what you want row container to span accross i.e 100vw */
+.row {
+    width: 1140px;
+    margin: 0 auto;
+}
