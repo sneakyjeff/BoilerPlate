@@ -5,18 +5,18 @@
 ## 
 
 * Also resets all default CSS behaviors using the following CSS rule and sets all CSS elements to use box-sizing: border-box. 
-<!-- 
+` 
     * {
         margin: 0;
         padding: 0;
         box-sizing: border-box;
     } 
--->
+`
 
 * Also uses CSS rule below to create a generic 'row' container
-<!-- 
+` 
     .row {
         width: 1140px;
         margin: 0 auto;
     }
--->
+`
